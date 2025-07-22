@@ -31,7 +31,13 @@ def load_courses(csv_path):
 # ---------- NLP Skill Extraction ----------
 @st.cache_resource
 def load_spacy_model():
-    return spacy.load("en_core_web_sm")
+    import subprocess
+    try:
+        return spacy.load("en_core_web_sm")
+    except OSError:
+        subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+        return spacy.load("en_core_web_sm")
+
 
 def extract_skills_from_text(text, known_skills):
     nlp = load_spacy_model()
