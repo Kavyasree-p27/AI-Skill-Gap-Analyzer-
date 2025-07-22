@@ -1,0 +1,46 @@
+[
+  {
+    "job_title": "Data Analyst",
+    "required_skills": ["SQL", "Excel", "Python", "Data Cleaning", "Data Visualization"]
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "required_skills": ["Python", "Machine Learning", "Pandas", "Numpy", "Scikit-learn", "Model Deployment"]
+  },
+  {
+    "job_title": "Frontend Developer",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"]
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "required_skills": ["AWS", "Linux", "Docker", "EC2", "Cloud Deployment"]
+  },
+  {
+    "job_title": "Digital Marketing Specialist",
+    "required_skills": ["SEO", "Google Ads", "Analytics", "Content Writing"]
+  },
+  {
+    "job_title": "Data Scientist",
+    "required_skills": ["Python", "Pandas", "Numpy", "Statistics", "Machine Learning", "Model Evaluation"]
+  },
+  {
+    "job_title": "AI Research Intern",
+    "required_skills": ["Python", "TensorFlow", "Deep Learning", "NLP", "Transformers", "BERT"]
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "required_skills": ["Linux", "Docker", "AWS", "CI/CD", "Shell Scripting", "Kubernetes"]
+  },
+  {
+    "job_title": "Business Intelligence Analyst",
+    "required_skills": ["Power BI", "SQL", "Data Modeling", "Dashboards", "ETL"]
+  },
+  {
+    "job_title": "MLOps Engineer",
+    "required_skills": ["Python", "Model Deployment", "Docker", "Flask", "FastAPI", "MLflow"]
+  },
+  {
+    "job_title": "Data Engineer",
+    "required_skills": ["SQL", "ETL", "Spark", "PySpark", "Hadoop", "Data Pipelines"]
+  }
+]

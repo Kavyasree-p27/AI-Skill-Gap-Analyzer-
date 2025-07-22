@@ -1,0 +1,82 @@
+Python
+SQL
+Excel
+Advanced Excel
+Pandas
+Numpy
+Machine Learning
+Deep Learning
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+OpenCV
+Transformers
+NLP
+Text Classification
+Sentiment Analysis
+Hugging Face
+BERT
+LSTM
+CNN
+RNN
+Computer Vision
+Data Cleaning
+Data Preprocessing
+Data Analysis
+Data Visualization
+Power BI
+Tableau
+Dashboards
+Charts
+HTML
+CSS
+JavaScript
+React
+Bootstrap
+AWS
+EC2
+S3
+IAM
+Cloud Deployment
+Google Cloud
+Azure
+Linux
+Shell Scripting
+Docker
+Kubernetes
+ETL
+Big Data
+Spark
+PySpark
+Hadoop
+SEO
+Google Ads
+Content Writing
+Analytics
+Statistics
+Matplotlib
+Seaborn
+OpenAI API
+ChatGPT
+LangChain
+Prompt Engineering
+Model Evaluation
+Model Deployment
+MLOps
+Flask
+FastAPI
+Streamlit
+Git
+GitHub
+PostgreSQL
+MongoDB
+Firebase
+Data Structures
+OOP
+Java
+C++
+Joins
+Queries
+Subqueries
+Storytelling

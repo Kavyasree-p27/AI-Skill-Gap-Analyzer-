@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Rahul Mehra",
+    "email": "rahul@example.com",
+    "phone": "9876543210",
+    "education": "B.Sc. in Statistics, Delhi University",
+    "skills": ["Python", "SQL", "Excel"],
+    "experience": "1 year as Data Analyst at TCS",
+    "certifications": ["ExcelR - Data Analytics"],
+    "projects": ["Sales Forecasting in Retail"],
+    "github": "https://github.com/rahulmehra"
+  },
+  {
+    "name": "Sneha Reddy",
+    "email": "sneha@example.com",
+    "phone": "9876523434",
+    "education": "B.Tech in Information Technology, Osmania University",
+    "skills": ["Python", "Power BI", "Excel", "Tableau"],
+    "experience": "2 years as BI Developer at Wipro",
+    "certifications": ["ExcelR - Power BI", "Tableau Desktop Specialist"],
+    "projects": ["Customer Segmentation Dashboard", "Sales Analytics"],
+    "github": "https://github.com/snehareddy"
+  },
+  {
+    "name": "Amit Sharma",
+    "email": "amit@example.com",
+    "phone": "9988776655",
+    "education": "B.Tech in Computer Science, SRM University",
+    "skills": ["C++", "Java", "Data Structures", "Problem Solving"],
+    "experience": "Fresh Graduate",
+    "certifications": ["NPTEL - Programming in Java"],
+    "projects": ["Online Exam System in Java"],
+    "github": "https://github.com/amitsharma"
+  },
+  {
+    "name": "Neha Verma",
+    "email": "neha@example.com",
+    "phone": "9876540987",
+    "education": "B.Com in Computer Applications, Loyola College",
+    "skills": ["SQL", "Advanced Excel", "Data Cleaning"],
+    "experience": "Internship in Data Entry at Capgemini",
+    "certifications": ["ExcelR - Advanced Excel"],
+    "projects": ["Data Cleaning Automation in Excel"],
+    "github": ""
+  },
+  {
+    "name": "Varun Raj",
+    "email": "varun@example.com",
+    "phone": "9654123789",
+    "education": "B.Tech in AI & ML, VIT Chennai",
+    "skills": ["Python", "Machine Learning", "Pandas", "Numpy"],
+    "experience": "Final year B.Tech Project in AI",
+    "certifications": ["ExcelR - Machine Learning", "Coursera - Data Analysis with Python"],
+    "projects": ["AI Attendance System", "Stock Price Predictor using ML"],
+    "github": "https://github.com/varunraj-ai"
+  },
+  {
+    "name": "Tanvi Iyer",
+    "email": "tanvi@example.com",
+    "phone": "9966554433",
+    "education": "B.Tech in Computer Science, PES University",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+    "experience": "6 months as Frontend Intern at Zoho",
+    "certifications": ["ExcelR - Web Development"],
+    "projects": ["Portfolio Website", "React E-Commerce UI"],
+    "github": "https://github.com/tanviiyer"
+  },
+  {
+    "name": "Rohit Singh",
+    "email": "rohit@example.com",
+    "phone": "9123456789",
+    "education": "B.Tech in Information Security, Amity University",
+    "skills": ["AWS", "Linux", "Shell Scripting", "Docker", "Python"],
+    "experience": "Cloud Intern at Infosys",
+    "certifications": ["AWS Certified Cloud Practitioner", "ExcelR - DevOps"],
+    "projects": ["EC2 Deployment Automation using Shell Script"],
+    "github": "https://github.com/rohit-cloud"
+  },
+  {
+    "name": "Meena Joseph",
+    "email": "meena@example.com",
+    "phone": "9998887770",
+    "education": "MBA in Marketing, Christ University",
+    "skills": ["SEO", "Google Ads", "Content Writing", "Analytics"],
+    "experience": "1.5 years in Digital Marketing at Accenture",
+    "certifications": ["Google Ads Certification", "ExcelR - Digital Marketing"],
+    "projects": ["Ad Campaign Optimization using Google Analytics"],
+    "github": ""
+  },
+  {
+    "name": "Faizan Khan",
+    "email": "faizan@example.com",
+    "phone": "9012345678",
+    "education": "M.Sc. in Data Science, JNU",
+    "skills": ["ETL", "Spark", "Big Data", "Python", "SQL"],
+    "experience": "Junior Data Engineer at a startup",
+    "certifications": ["ExcelR - Big Data with Spark"],
+    "projects": ["ETL Pipeline with PySpark"],
+    "github": "https://github.com/faizan-spark"
+  },
+  {
+    "name": "Divya Suresh",
+    "email": "divya@example.com",
+    "phone": "9876512345",
+    "education": "BBA in Business Analytics, NMIMS",
+    "skills": ["Power BI", "Excel", "SQL", "Data Analysis", "Statistics"],
+    "experience": "Final year student with internship in BI at KPMG",
+    "certifications": ["ExcelR - Business Analytics"],
+    "projects": ["Power BI Dashboard for HR Analytics"],
+    "github": ""
+  }
+]
